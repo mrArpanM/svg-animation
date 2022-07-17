@@ -11,5 +11,5 @@ Parallax scrolling animation turning day into night.
 
 ## Demo
 
-- [Visit](https://www.github.com/mrArpanM)
+- [Visit](https://mrarpanm.github.io/svg-animation)
 
